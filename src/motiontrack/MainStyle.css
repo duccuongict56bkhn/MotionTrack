@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 21, 2014, 9:43:28 AM
+    Author     : Garena
+*/
+
+#wheel {
+    -fx-background-image: url("Wheel.png");
+}
+
+#backgroundAnchorPane {
+    -fx-background-image: url("../resources/Background.png");
+}
+
+#pointerStackPane {
+    -fx-background-image: url("../resources/Pointer.png");
+}
